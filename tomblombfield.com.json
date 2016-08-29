@@ -1,0 +1,2210 @@
+{
+	"http://tomblomfield.com": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://66.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/page/2": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/about"
+	},
+	"http://tomblomfield.com/": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/random"
+	},
+	"http://tomblomfield.com/post/132810390155": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360": true,
+			"http://tomblomfield.com/post/97304410500": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken"
+	},
+	"http://tomblomfield.com/post/132810390155/getting-shit-done": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360": true,
+			"http://tomblomfield.com/post/97304410500": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/132810390155/getting-shit-done"
+	},
+	"http://tomblomfield.com/post/135120600360": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/132810390155": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/136759441870/when-to-join-a-startup"
+	},
+	"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/132810390155": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://tomblomfield.com/post/136759441870": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/135120600360": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups"
+	},
+	"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/135120600360": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2016/01/14"
+	},
+	"http://tomblomfield.com/post/15450705336": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr": true,
+			"http://tomblomfield.com/post/15451580714": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related"
+	},
+	"http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr": true,
+			"http://tomblomfield.com/post/15451580714": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://tomblomfield.com/post/15451580714": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15450705336": true,
+			"http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related": true,
+			"http://tomblomfield.com/post/15456184827": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr"
+	},
+	"http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15450705336": true,
+			"http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related": true,
+			"http://tomblomfield.com/post/15456184827": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://tomblomfield.com/post/15456184827": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/15451580714": true,
+			"http://tomblomfield.com/post/15456184827/i-hate-meetings": true,
+			"http://tomblomfield.com/post/15459124407": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related"
+	},
+	"http://tomblomfield.com/post/15456184827/i-hate-meetings": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/15451580714": true,
+			"http://tomblomfield.com/post/15456184827/i-hate-meetings": true,
+			"http://tomblomfield.com/post/15459124407": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/page/2"
+	},
+	"http://tomblomfield.com/post/15459124407": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15456184827": true,
+			"http://tomblomfield.com/post/15459124407/technical-interviews": true,
+			"http://tomblomfield.com/post/17092502705": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/17092502705/automate-everything"
+	},
+	"http://tomblomfield.com/post/15459124407/technical-interviews": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15456184827": true,
+			"http://tomblomfield.com/post/15459124407/technical-interviews": true,
+			"http://tomblomfield.com/post/17092502705": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://tomblomfield.com/post/16697498005": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17092502705": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/post/17571449233": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/random"
+	},
+	"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17092502705": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/post/17571449233": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://tomblomfield.com/post/17092502705": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://cl.ly/2y101u391I2a0X0b3A1N/Screen%20shot%202012-02-05%20at%2014.13.07.png": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/15459124407": true,
+			"http://tomblomfield.com/post/16697498005": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/05": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup"
+	},
+	"http://tomblomfield.com/post/17092502705/automate-everything": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://cl.ly/2y101u391I2a0X0b3A1N/Screen%20shot%202012-02-05%20at%2014.13.07.png": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/15459124407": true,
+			"http://tomblomfield.com/post/16697498005": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/05": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://tomblomfield.com/post/17571449233": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/16697498005": true,
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://tomblomfield.com/post/20285854071": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd"
+	},
+	"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/16697498005": true,
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://tomblomfield.com/post/20285854071": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup"
+	},
+	"http://tomblomfield.com/post/20285854071": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/17571449233": true,
+			"http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd": true,
+			"http://tomblomfield.com/post/21440604403": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/04/01": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/random"
+	},
+	"http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/17571449233": true,
+			"http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd": true,
+			"http://tomblomfield.com/post/21440604403": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/04/01": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/page/2"
+	},
+	"http://tomblomfield.com/post/21440604403": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/20285854071": true,
+			"http://tomblomfield.com/post/21440604403/peter-nixey-cook-something-or-get-out-of-the": true,
+			"http://tomblomfield.com/post/33506878578": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/04/20": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd"
+	},
+	"http://tomblomfield.com/post/21440604403/peter-nixey-cook-something-or-get-out-of-the": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/20285854071": true,
+			"http://tomblomfield.com/post/21440604403/peter-nixey-cook-something-or-get-out-of-the": true,
+			"http://tomblomfield.com/post/33506878578": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/04/20": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://tomblomfield.com/post/33506878578": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/21440604403": true,
+			"http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless": true,
+			"http://tomblomfield.com/post/51547590294": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/11/08": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/random"
+	},
+	"http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/21440604403": true,
+			"http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless": true,
+			"http://tomblomfield.com/post/51547590294": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/11/08": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/page/2"
+	},
+	"http://tomblomfield.com/post/51547590294": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/33506878578": true,
+			"http://tomblomfield.com/post/51547590294/advice": true,
+			"http://tomblomfield.com/post/61760552398": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/05/28": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers"
+	},
+	"http://tomblomfield.com/post/51547590294/advice": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/33506878578": true,
+			"http://tomblomfield.com/post/51547590294/advice": true,
+			"http://tomblomfield.com/post/61760552398": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/05/28": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://tomblomfield.com/post/61760552398": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/51547590294": true,
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/61958629156"
+	},
+	"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/51547590294": true,
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2013/09/20"
+	},
+	"http://tomblomfield.com/post/61958629156": {
+		"Assets": {
+			"http://66.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/61760552398": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure"
+	},
+	"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": {
+		"Assets": {
+			"http://66.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/61760552398": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://tomblomfield.com/post/62342949294": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/61958629156": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers"
+	},
+	"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/61958629156": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure"
+	},
+	"http://tomblomfield.com/post/62619282797": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/62342949294": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/post/81111938563": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure"
+	},
+	"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/62342949294": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/post/81111938563": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2013/09/29"
+	},
+	"http://tomblomfield.com/post/81105143223": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/81111938563": true,
+			"http://tomblomfield.com/post/97304410500": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments"
+	},
+	"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/81111938563": true,
+			"http://tomblomfield.com/post/97304410500": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup"
+	},
+	"http://tomblomfield.com/post/81111938563": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/62619282797": true,
+			"http://tomblomfield.com/post/81105143223": true,
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup"
+	},
+	"http://tomblomfield.com/post/81111938563/growth": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/62619282797": true,
+			"http://tomblomfield.com/post/81105143223": true,
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://tomblomfield.com/post/97304410500": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/132810390155": true,
+			"http://tomblomfield.com/post/81105143223": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup"
+	},
+	"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/132810390155": true,
+			"http://tomblomfield.com/post/81105143223": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments"
+	},
+	"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/132810390155": true,
+			"http://tomblomfield.com/post/81105143223": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://www.tomblomfield.com": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://66.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/page/2": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": ""
+	},
+	"http://www.tomblomfield.com/": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://66.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/page/2": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup"
+	},
+	"http://www.tomblomfield.com/about": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup"
+	},
+	"http://www.tomblomfield.com/archive": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr": true,
+			"http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related": true,
+			"http://tomblomfield.com/post/15456184827/i-hate-meetings": true,
+			"http://tomblomfield.com/post/15459124407/technical-interviews": true,
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd": true,
+			"http://tomblomfield.com/post/21440604403/peter-nixey-cook-something-or-get-out-of-the": true,
+			"http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless": true,
+			"http://tomblomfield.com/post/51547590294/advice": true,
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2015/12/13"
+	},
+	"http://www.tomblomfield.com/archive/2012/1": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr": true,
+			"http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related": true,
+			"http://tomblomfield.com/post/15456184827/i-hate-meetings": true,
+			"http://tomblomfield.com/post/15459124407/technical-interviews": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://www.tomblomfield.com/archive/2012/11": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive/2013/9"
+	},
+	"http://www.tomblomfield.com/archive/2012/2": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive/2013/9"
+	},
+	"http://www.tomblomfield.com/archive/2012/4": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd": true,
+			"http://tomblomfield.com/post/21440604403/peter-nixey-cook-something-or-get-out-of-the": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://www.tomblomfield.com/archive/2013/5": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/51547590294/advice": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive/2013/9"
+	},
+	"http://www.tomblomfield.com/archive/2013/9": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://www.tomblomfield.com/archive/2014/3": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive/2013/9"
+	},
+	"http://www.tomblomfield.com/archive/2014/7": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://www.tomblomfield.com/archive/2014/9": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive/2013/9"
+	},
+	"http://www.tomblomfield.com/archive/2015/11": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive/2013/9"
+	},
+	"http://www.tomblomfield.com/archive/2015/12": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive"
+	},
+	"http://www.tomblomfield.com/archive/2016/1": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/html/archive_iframe.html": true,
+			"http://assets.tumblr.com/assets/scripts/archive/archive.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblr/utils/exceptions.js": true,
+			"http://assets.tumblr.com/client/prod/app/context/archive/index.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/global.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/header.build.js": true,
+			"http://assets.tumblr.com/client/prod/app/vendor.build.js": true,
+			"http://assets.tumblr.com/languages/strings/en_US.js": true,
+			"http://www.tomblomfield.com/nowfollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://www.tomblomfield.com": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/archive/2012/1": true,
+			"http://www.tomblomfield.com/archive/2012/11": true,
+			"http://www.tomblomfield.com/archive/2012/2": true,
+			"http://www.tomblomfield.com/archive/2012/4": true,
+			"http://www.tomblomfield.com/archive/2013/5": true,
+			"http://www.tomblomfield.com/archive/2013/9": true,
+			"http://www.tomblomfield.com/archive/2014/3": true,
+			"http://www.tomblomfield.com/archive/2014/7": true,
+			"http://www.tomblomfield.com/archive/2014/9": true,
+			"http://www.tomblomfield.com/archive/2015/11": true,
+			"http://www.tomblomfield.com/archive/2015/12": true,
+			"http://www.tomblomfield.com/archive/2016/1": true
+		},
+		"Parent": "http://www.tomblomfield.com/archive/2013/9"
+	},
+	"http://www.tomblomfield.com/day/2012/01/07": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr": true,
+			"http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related": true,
+			"http://tomblomfield.com/post/15456184827/i-hate-meetings": true,
+			"http://tomblomfield.com/post/15459124407/technical-interviews": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/day/2012/02/05": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2012/01/07"
+	},
+	"http://www.tomblomfield.com/day/2012/02/05": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://cl.ly/2y101u391I2a0X0b3A1N/Screen%20shot%202012-02-05%20at%2014.13.07.png": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/day/2012/02/05": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/random"
+	},
+	"http://www.tomblomfield.com/day/2012/02/13": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/05": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/day/2012/04/01": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/page/2"
+	},
+	"http://www.tomblomfield.com/day/2012/04/01": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/day/2012/04/01": true,
+			"http://www.tomblomfield.com/day/2012/04/20": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd"
+	},
+	"http://www.tomblomfield.com/day/2012/04/20": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/21440604403/peter-nixey-cook-something-or-get-out-of-the": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/04/01": true,
+			"http://www.tomblomfield.com/day/2012/04/20": true,
+			"http://www.tomblomfield.com/day/2012/11/08": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/random"
+	},
+	"http://www.tomblomfield.com/day/2012/11/08": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/04/20": true,
+			"http://www.tomblomfield.com/day/2012/11/08": true,
+			"http://www.tomblomfield.com/day/2013/05/28": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless"
+	},
+	"http://www.tomblomfield.com/day/2013/05/28": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/51547590294/advice": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/11/08": true,
+			"http://www.tomblomfield.com/day/2013/05/28": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2013/09/20"
+	},
+	"http://www.tomblomfield.com/day/2013/09/20": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/05/28": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://www.tomblomfield.com/day/2013/09/22": {
+		"Assets": {
+			"http://66.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers"
+	},
+	"http://www.tomblomfield.com/day/2013/09/26": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure"
+	},
+	"http://www.tomblomfield.com/day/2013/09/29": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://www.tomblomfield.com/day/2014/03/29": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/81111938563/growth"
+	},
+	"http://www.tomblomfield.com/day/2014/07/10": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup"
+	},
+	"http://www.tomblomfield.com/day/2014/09/12": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2014/07/10"
+	},
+	"http://www.tomblomfield.com/day/2015/11/08": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://tomblomfield.com/post/132810390155/getting-shit-done"
+	},
+	"http://www.tomblomfield.com/day/2015/12/13": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2016/01/14"
+	},
+	"http://www.tomblomfield.com/day/2016/01/14": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://www.tomblomfield.com/page/1": {
+		"Assets": {
+			"http://66.media.tumblr.com/76dea195e0390191ceeefba0effbdce9/tumblr_inline_n37sxtY37t1r5tr1m.png": true,
+			"http://66.media.tumblr.com/b85a6d5d56c36b155d13ac7d2684d98a/tumblr_inline_n37sy2AZA91r5tr1m.png": true,
+			"http://66.media.tumblr.com/ddebec46b60f554989f09682fc3d8e71/tumblr_inline_mtj697fPI11r5tr1m.jpg": true,
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/6000/300/6379/6379.strip.sunday.gif": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/132810390155/getting-shit-done": true,
+			"http://tomblomfield.com/post/135120600360/five-unbreakable-rules-for-startups": true,
+			"http://tomblomfield.com/post/136759441870/when-to-join-a-startup": true,
+			"http://tomblomfield.com/post/61760552398/startup-series-part-1-interviewing-engineers": true,
+			"http://tomblomfield.com/post/61958629156/startup-series-part-2-attracting-great-engineers": true,
+			"http://tomblomfield.com/post/62342949294/startup-series-part-3-you-make-what-you-measure": true,
+			"http://tomblomfield.com/post/62619282797/startup-series-part-4-deadlines": true,
+			"http://tomblomfield.com/post/81105143223/customer-churn-can-kill-your-startup": true,
+			"http://tomblomfield.com/post/81111938563/growth": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken": true,
+			"http://tomblomfield.com/post/97304410500/apple-is-propping-up-a-fundamentally-broken-payments": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2013/09/20": true,
+			"http://www.tomblomfield.com/day/2013/09/22": true,
+			"http://www.tomblomfield.com/day/2013/09/26": true,
+			"http://www.tomblomfield.com/day/2013/09/29": true,
+			"http://www.tomblomfield.com/day/2014/03/29": true,
+			"http://www.tomblomfield.com/day/2014/07/10": true,
+			"http://www.tomblomfield.com/day/2014/09/12": true,
+			"http://www.tomblomfield.com/day/2015/11/08": true,
+			"http://www.tomblomfield.com/day/2015/12/13": true,
+			"http://www.tomblomfield.com/day/2016/01/14": true,
+			"http://www.tomblomfield.com/page/2": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/page/2"
+	},
+	"http://www.tomblomfield.com/page/2": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://cl.ly/2y101u391I2a0X0b3A1N/Screen%20shot%202012-02-05%20at%2014.13.07.png": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15451580714/some-of-the-most-thoughtful-startup-related": true,
+			"http://tomblomfield.com/post/15456184827/i-hate-meetings": true,
+			"http://tomblomfield.com/post/15459124407/technical-interviews": true,
+			"http://tomblomfield.com/post/16697498005/automating-customer-service-at-a-startup": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/post/17571449233/home-brew-customer-phone-support": true,
+			"http://tomblomfield.com/post/20285854071/dont-write-tests-the-hidden-cost-of-tdd": true,
+			"http://tomblomfield.com/post/21440604403/peter-nixey-cook-something-or-get-out-of-the": true,
+			"http://tomblomfield.com/post/33506878578/making-something-people-want-the-gocardless": true,
+			"http://tomblomfield.com/post/51547590294/advice": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/day/2012/02/05": true,
+			"http://www.tomblomfield.com/day/2012/02/13": true,
+			"http://www.tomblomfield.com/day/2012/04/01": true,
+			"http://www.tomblomfield.com/day/2012/04/20": true,
+			"http://www.tomblomfield.com/day/2012/11/08": true,
+			"http://www.tomblomfield.com/day/2013/05/28": true,
+			"http://www.tomblomfield.com/page/1": true,
+			"http://www.tomblomfield.com/page/3": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com"
+	},
+	"http://www.tomblomfield.com/page/3": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/post/15450705336/syntax-highlighting-on-tumblr": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/01/07": true,
+			"http://www.tomblomfield.com/page/2": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/page/2"
+	},
+	"http://www.tomblomfield.com/random": {
+		"Assets": {
+			"http://assets.tumblr.com/assets/scripts/pre_tumblelog.js": true,
+			"http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js": true,
+			"http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js": true,
+			"http://cl.ly/2y101u391I2a0X0b3A1N/Screen%20shot%202012-02-05%20at%2014.13.07.png": true,
+			"http://disqus.com/forums/tomblomfield/embed.js": true,
+			"http://requirejs.org/docs/release/1.0.3/minified/require.js": true,
+			"http://www.gravatar.com/avatar/c833be5582482777b51b8fc73e8b0586": true,
+			"http://www.tomblomfield.com/nofollow": true,
+			"http://www.tomblomfield.com/stylesheet": true
+		},
+		"Links": {
+			"http://tomblomfield.com/": true,
+			"http://tomblomfield.com/post/15459124407": true,
+			"http://tomblomfield.com/post/16697498005": true,
+			"http://tomblomfield.com/post/17092502705/automate-everything": true,
+			"http://tomblomfield.com/rss": true,
+			"http://www.tomblomfield.com/": true,
+			"http://www.tomblomfield.com/about": true,
+			"http://www.tomblomfield.com/archive": true,
+			"http://www.tomblomfield.com/day/2012/02/05": true,
+			"http://www.tomblomfield.com/random": true
+		},
+		"Parent": "http://www.tomblomfield.com/day/2013/09/20"
+	}
+}
